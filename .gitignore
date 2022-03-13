@@ -1,0 +1,6 @@
+.vscode/
+*template.c
+*.exe
+
+lab1/random.c
+lab1/sum_N.c
